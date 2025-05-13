@@ -1,0 +1,38 @@
+---
+title: "Statistics_Library"
+date: "2025-05-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css, echo=FALSE}
+.watch-out {
+  background-color: black;
+  border: 2px solid grey;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: left;
+  }
+```
+
+* [Library Github](https://github.com/NotActuallyJaxon/Statistics_Library)
+
+***
+
+## **Use word search shortcuts like CTRL+G to find specific functions faster**
+
+***
+
+# [**Distributions:**]{style="color:#FFCC00;"}
+
+
+##
+
+```{r class.source="watch-out"}
+
+```
+
+***
